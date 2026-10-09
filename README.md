@@ -1,6 +1,6 @@
 # Sachin M · Cybersecurity Portfolio
 
-A responsive static portfolio featuring LOGFLUX, PARALLAX, PROJECT AXIOM and Guardian Sentinel, with a downloadable resume and custom Cybo identity.
+A responsive static portfolio featuring LOGFLUX, PARALLAX, PROJECT AXIOM and Guardian Sentinel, with a downloadable resume and minimal red shield identity.
 
 ## Run locally
 
@@ -20,6 +20,6 @@ Import this repository into Vercel, choose **Other** as the framework preset, le
 - `style.css`: responsive layout and visual theme.
 - `script.js`: email copy interaction with visible fallback.
 - `assets/Sachin_M_Resume.pdf`: downloadable resume.
-- `assets/cybo-logo.png`: custom logo generated with the built-in image-generation tool.
+- `assets/security-logo.png`: custom shield logo generated with the built-in image-generation tool.
 
 Application screenshots come from the linked project repositories and use synthetic demonstration data. Project metrics retain their documented scope. Google Fonts is optional; system fonts provide a fallback.
