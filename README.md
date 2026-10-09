@@ -2,6 +2,12 @@
 
 A responsive static portfolio featuring LOGFLUX, PARALLAX, PROJECT AXIOM and Guardian Sentinel, with a downloadable resume and minimal red shield identity.
 
+## Live website
+
+https://sachin-portfolio-six-flame.vercel.app
+
+Deployed to Vercel. GitHub automatic deployment requires a Vercel GitHub login connection; CLI deployments are available with `npx vercel --prod --scope vision-df80`.
+
 ## Run locally
 
 ```sh
